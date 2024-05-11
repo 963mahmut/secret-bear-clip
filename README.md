@@ -1,4 +1,4 @@
-# Secret Bear Clip
+# Sestl/clip.stlcret Bear Clip
 
 A small clip that attachs the Gooseneck HueHD camera to the Replicator 2 printer
 in the GitHub office.
